@@ -7,6 +7,13 @@ export default function App({ data }) {
         <div>
             <h1>TESTING</h1>
             <img src={braces} alt="" />
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+                <li>Item 5</li>
+            </ul>
         </div>
     );
 }
